@@ -1,11 +1,11 @@
 {
     "categories": [
       {
-        "name": "static",
+        "name": "Static",
         "url": "https://example.com/static"
       },
       {
-        "name": "hot",
+        "name": "Hot",
         "url": "https://example.com/hot"
       }
       
