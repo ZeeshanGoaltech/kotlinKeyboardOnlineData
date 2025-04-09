@@ -1,0 +1,14 @@
+{
+    "categories": [
+      {
+        "name": "static",
+        "url": "https://example.com/static"
+      },
+      {
+        "name": "hot",
+        "url": "https://example.com/hot"
+      }
+      
+    ]
+  }
+  
