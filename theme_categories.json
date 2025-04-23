@@ -1,7 +1,11 @@
 {
   "categories": [
     {
-      "name": "Static",
+      "name": "All",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "Standard",
       "url": "https://example.com/static"
     },
     {
