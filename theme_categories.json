@@ -5,27 +5,11 @@
       "url": "https://example.com/static"
     },
     {
-      "name": "Standard",
+      "name": "Global",
       "url": "https://example.com/static"
     },
     {
-      "name": "Trendy",
-      "url": "https://example.com/hot"
-    },
-    {
       "name": "Cute",
-      "url": "https://example.com/hot"
-    },
-    {
-      "name": "Animal",
-      "url": "https://example.com/hot"
-    },
-    {
-      "name": "Flowers",
-      "url": "https://example.com/hot"
-    },
-    {
-      "name": "Sports",
       "url": "https://example.com/hot"
     },
     {
@@ -33,7 +17,7 @@
       "url": "https://example.com/hot"
     },
     {
-      "name": "Ramazan",
+      "name": "Animal",
       "url": "https://example.com/hot"
     }
   ]
