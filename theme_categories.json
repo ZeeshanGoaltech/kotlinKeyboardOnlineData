@@ -5,6 +5,10 @@
       "url": "https://example.com/static"
     },
     {
+      "name": "Standard",
+      "url": "https://example.com/static"
+    },
+    {
       "name": "Global",
       "url": "https://example.com/static"
     },
